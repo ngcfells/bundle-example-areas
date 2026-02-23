@@ -1,4 +1,4 @@
----
+npcs:
 - id: squirrel
   keywords: ['squirrel']
   name: A Squirrel

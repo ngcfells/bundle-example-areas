@@ -1,3 +1,4 @@
+npcs:
 - id: rat
   keywords: ['rat']
   name: A Rat

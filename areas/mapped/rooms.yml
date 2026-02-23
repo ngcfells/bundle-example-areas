@@ -1,4 +1,4 @@
----
+rooms:
 - id: start
   title: Begin
   coordinates: [0, 0, 0]
